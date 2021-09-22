@@ -1,6 +1,6 @@
 ![nice-watercolor-background_24837-261](https://user-images.githubusercontent.com/91019061/134311582-6682cf69-291a-4ce6-afbd-11819a0d2e24.jpg)
 # H1 am mithu
-## <div align="center"> H2 ddddddddddddddddddddddddddddddddddddddddd
+<div align="center"> H2 ddddddddddddddddddddddddddddddddddddddddd
   ddddddddddddddddddddddddddddddddddddddd
   ddddddddddddddddddddddddddddddddddddddddd
   dddddddddddddddddddddddddddddddddddd</div>
