@@ -1,7 +1,6 @@
 ![nice-watercolor-background_24837-261](https://user-images.githubusercontent.com/91019061/134311582-6682cf69-291a-4ce6-afbd-11819a0d2e24.jpg)
 # H1
 ## H2
-### H
 You can use the [editor on GitHub](https://github.com/mithumithursan/your_username.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
