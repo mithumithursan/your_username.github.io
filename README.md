@@ -12,3 +12,7 @@ rules that the game knows nothing about. A scrub does not play to win.<div align
 	<h4> mithu </h4>
 	<h5> mithu </h5>
 	<h6> mithu </h6>
+<frameset cols="25%,50%,25%">
+<frame src="Date of birth.html">
+<frame src="pra.html">
+<frame src="Fieldset.html">
